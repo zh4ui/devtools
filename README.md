@@ -1,20 +1,15 @@
-# devtools
-
-Useful tools for development on various platforms
-
-## Curated Lists
+# Curated Lists
 
 * [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
-## Windows
+# Windows
 
-### Utilities
+## Utilities
 
-*quicklook*
+* [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook/). Bring macOS “Quick Look” feature to Windows http://pooi.moe/QuickLook/
+* [DeskPins](http://efotinis.neocities.org/deskpins/index.html). DeskPins can be used to make any application topmost, that is, to keep it above all other windows. 
 
-[QL-Win/QuickLook](https://github.com/QL-Win/QuickLook/) Bring macOS “Quick Look” feature to Windows http://pooi.moe/QuickLook/
-
-### Windows Tips
+## Tips
 
 *Run cmd.exe for current folder*
 
