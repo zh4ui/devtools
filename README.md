@@ -2,6 +2,10 @@
 
 * [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 
+# Related Lists
+
+* [Vim Tips][./Vim.md]
+
 # Windows
 
 ## Tools
