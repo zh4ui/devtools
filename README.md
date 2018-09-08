@@ -4,7 +4,7 @@
 
 # Related Lists
 
-* [Vim Tips][Vim.md]
+* [Vim Tips](Vim.md)
 
 # Windows
 
