@@ -16,10 +16,10 @@
 * [TortoiseHG](https://tortoisehg.bitbucket.io/). A GUI client for Mercurial SCM.
 * [plantuml](http://plantuml.com/). Convert text descriptions to UML diagrams. A similiar tool is [Mermaid](https://github.com/knsv/mermaid)..
 
-## Libraries
+## Dev Tools
 
 * [Google Protobuf](https://github.com/google/protobuf). Interface Description Language provided by Google. You can generate documents from Protobuf by using [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc). Uber has [some tools](https://github.com/uber/prototool) for Protobuf.
-
+* [vcpkg](https://github.com/Microsoft/vcpkg). C++ Library Manager for Windows, Linux, and MacOS.
 
 ## Tips
 
