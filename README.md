@@ -20,6 +20,8 @@
 
 * [Google Protobuf](https://github.com/google/protobuf). Interface Description Language provided by Google. You can generate documents from Protobuf by using [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc). Uber has [some tools](https://github.com/uber/prototool) for Protobuf.
 * [vcpkg](https://github.com/Microsoft/vcpkg). C++ Library Manager for Windows, Linux, and MacOS.
+* [YAML](http://yaml.org/). YAML Ain't Markup Language.
+
 
 ## Tips
 
