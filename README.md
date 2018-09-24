@@ -3,6 +3,7 @@
 ## Categories
 
 * [Windows](Windows.md)
+* [macOS](macOS.md)
 * [Vim Tips](Vim.md)
 * [VSCode Tips](VSCode.md)
 * [Bootcamp Windows](Bootcamp.md)
