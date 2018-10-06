@@ -9,10 +9,14 @@ Open the Finder Preference, switch to the Advanced tab, on the dropdown list nam
 
 ## Mojave
 
-Light window in dark theme (OS in dark, applications in light)
+**Light window in dark theme (OS in dark, applications in light)**
 
 ```sh
 defaults write -g NSRequiresAquaSystemAppearance -bool Yes
 ```
 
 Log out and log in
+
+**Screenshot**
+
+Shift+CMD+5 to get into the screenshot mode
