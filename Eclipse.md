@@ -1,7 +1,13 @@
 # Toolstory · Eclipse
 
 
-## Working with projects
+## Tips
+
+**Workspace**
+
+* An Eclipse Workspace can contain several projects, which can be organized into virtual Working Sets.
+* A Perspective determines how user would like to interact with a Workspace. Use *Menu: Window > Perspective > Customize Perspective...* to customize Perspective.
+
 
 [Eclipse help - Working with projects, folders and files](https://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-45a.htm)
 
@@ -19,6 +25,8 @@ Projects can be organized with Working Sets
 * Menu: Project > [Properties] > Project Natures
     * Add things like `C Nature` or `CDT Builder Project`
 
+Another way to do it: right click a general project in Project Explorer to show the context menu, then select New > Convert to a C/C++ Project.
+
 **turn off cursor blinking**
 
 Not that I know, but you can turn off cursor blinking at system level [How to disable Caret Blinking in Eclipse?](https://stackoverflow.com/questions/49233299/how-to-disable-caret-blinking-in-eclipse)
@@ -26,3 +34,4 @@ Not that I know, but you can turn off cursor blinking at system level [How to di
 **Mark Occurrences**
 
 `Alt + Shift + O` to toggle Mark Occurrences
+
