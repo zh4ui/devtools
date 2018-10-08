@@ -22,3 +22,7 @@ Projects can be organized with Working Sets
 **turn off cursor blinking**
 
 Not that I know, but you can turn off cursor blinking at system level [How to disable Caret Blinking in Eclipse?](https://stackoverflow.com/questions/49233299/how-to-disable-caret-blinking-in-eclipse)
+
+**Mark Occurrences**
+
+`Alt + Shift + O` to toggle Mark Occurrences
