@@ -18,3 +18,7 @@ Projects can be organized with Working Sets
 
 * Menu: Project > [Properties] > Project Natures
     * Add things like `C Nature` or `CDT Builder Project`
+
+**turn off cursor blinking**
+
+Not that I know, but you can turn off cursor blinking at system level [How to disable Caret Blinking in Eclipse?](https://stackoverflow.com/questions/49233299/how-to-disable-caret-blinking-in-eclipse)
