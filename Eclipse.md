@@ -35,3 +35,9 @@ Not that I know, but you can turn off cursor blinking at system level [How to di
 
 `Alt + Shift + O` to toggle Mark Occurrences
 
+## Plugins
+
+**protobuf-dt**
+
+[protobuf-dt](https://github.com/google/protobuf-dt) is Google's Eclipse plugin for protobuf.
+However it cannot be installed on Eclipse Photon because of [this issue](https://marketplace.eclipse.org/content/error/report/4252575)
