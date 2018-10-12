@@ -10,7 +10,7 @@
 * [QTTabBar](http://qttabbar.wikidot.com/). Add tabs to your Windows Explorer.
 * [yed](https://www.yworks.com/yed). A free effective graph editor by yWorks.
 * [Sumatra PDF](https://www.sumatrapdfreader.org) a small, efficient PDF reader without fancy stuff. Works on large PDF files where Acrobat Reader DC fails short.
-
+* [GoldenDict](http://goldendict.org/). A dictionary client that supports many dictionary formats.
 
 ## Dev Tools
 
