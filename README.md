@@ -3,11 +3,12 @@
 ## Categories
 
 * [Windows](Windows.md)
+* [Bootcamp Windows](Bootcamp.md)
+* [Office](Office.md)
 * [macOS](macOS.md)
 * [Vim Tips](Vim.md)
 * [VSCode Tips](VSCode.md)
 * [Eclipse Tips](Eclipse.md)
-* [Bootcamp Windows](Bootcamp.md)
 
 ## External Links
 
