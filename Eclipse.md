@@ -1,4 +1,4 @@
-# Toolstory · Eclipse
+# Eclipse
 
 
 ## Tips

@@ -1,4 +1,4 @@
-# Toolstory · Coding
+# Coding
 
 ## Tools
 

@@ -1,4 +1,4 @@
-# Toolstory · Bootcamp Windows
+# Bootcamp Windows
 
 Tools and tips for configuring Windows on a Mac (through bootcamp)
 

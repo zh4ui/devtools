@@ -1,4 +1,4 @@
-# VSCode Tips
+# VSCode
 
 ## Syntax
 

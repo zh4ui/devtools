@@ -1,4 +1,4 @@
-# Toolstory · macOS
+# macOS
 
 
 ## Tips

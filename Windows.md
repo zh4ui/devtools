@@ -1,4 +1,4 @@
-# Toolstory · Windows
+# Windows
 
 ## Tools
 

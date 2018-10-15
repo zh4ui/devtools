@@ -1,4 +1,4 @@
-# Vim Tips
+# Vim
 
 ## Tips
 

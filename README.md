@@ -1,4 +1,4 @@
-# Toolstory · Index
+# Index
 
 ## Categories
 
