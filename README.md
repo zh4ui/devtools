@@ -1,14 +1,14 @@
 # Index
 
-## Categories
+## Topics
 
 * [Windows](Windows.md)
 * [Bootcamp Windows](Bootcamp.md)
 * [Office](Office.md)
 * [macOS](macOS.md)
-* [Vim Tips](Vim.md)
-* [VSCode Tips](VSCode.md)
-* [Eclipse Tips](Eclipse.md)
+* [Vim](Vim.md)
+* [VSCode](VSCode.md)
+* [Eclipse](Eclipse.md)
 
 ## External Links
 
