@@ -25,3 +25,7 @@
 
 * In *Windows Explorer*, Alt+D to locate the Address Bar, enter `cmd` to open `cmd.exe` in current folder.
 * Shift + right click on a folder, select `Open command windows here` 
+
+**RTF file format**
+
+RTF file format can be useful in Windows. It's lighter than word, but support Rich Text. Windows has a built-in application called WordPad to open and edit RTF files. Addtionally, it can be previewed in Windows Explorer's preview panel. 
