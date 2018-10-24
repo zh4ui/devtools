@@ -29,3 +29,11 @@
 **RTF file format**
 
 RTF file format can be useful in Windows. It's lighter than word, but support Rich Text. Windows has a built-in application called WordPad to open and edit RTF files. Addtionally, it can be previewed in Windows Explorer's preview panel. 
+
+**Find RAM Type**
+
+```cmd
+wmic memorychip list full
+```
+
+from [How to find the RAM type in command prompt?](https://superuser.com/questions/606318/how-to-find-the-ram-type-in-command-prompt)
