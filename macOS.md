@@ -20,3 +20,17 @@ Log out and log in
 **Screenshot**
 
 Shift+CMD+5 to get into the screenshot mode
+
+## QuickTime
+
+**Rip Audio from Video**
+
+Using QuickTime Player: File / Export / Audio Only
+
+Source: [Rip audio file from video file in OSX](https://apple.stackexchange.com/questions/113125/rip-audio-file-from-video-file-in-osx) 
+**Trim an MP3**
+
+Using QuickTime Player: Edit / Trim
+
+
+Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-your-mac/) [A how-to guide for trimming MP3 audio in macOS Sierra using just the software that comes with your Mac.](https://biteable.com/blog/tips/trimming-audio-macos/)
