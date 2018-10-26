@@ -9,7 +9,8 @@
 * [Vim](Vim.md)
 * [VSCode](VSCode.md)
 * [Eclipse](Eclipse.md)
-* [Netbeans](Netbeas.md)
+* [Netbeans](Netbeans.md)
+* [Git](Git.md)
 
 ## External Links
 
