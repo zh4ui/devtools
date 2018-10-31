@@ -12,7 +12,9 @@
 * [Sumatra PDF](https://www.sumatrapdfreader.org) a small, efficient PDF reader without fancy stuff. Works on large PDF files where Acrobat Reader DC fails short.
 * [PDFsam](https://pdfsam.org/). Offer the functionality of splitting and Merging PDF pages. The basic version is free. Note that if you are using macOS, you can use Preview for the purpose.
 * [GoldenDict](http://goldendict.org/). A dictionary client that supports many dictionary formats.
-
+* WinMerge. A diff-merge tool for Windows.
+* Link Shell Extension. Create NTFS hardlinks by using Context Menu.
+* Microsoft Mathematics. A mathematic grapher provided by Microsoft.
 
 ## Dev Tools
 
