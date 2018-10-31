@@ -15,6 +15,10 @@
 * WinMerge. A diff-merge tool for Windows.
 * Link Shell Extension. Create NTFS hardlinks by using Context Menu.
 * Microsoft Mathematics. A mathematic grapher provided by Microsoft.
+* [Bluescreenview](http://www.nirsoft.net/utils/blue_screen_view.html). Reader for Windows Minidump files, highlight features help locate troublesome programs.
+* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/). Generate interactive, live, graphical tree-maps of storage devices to find large and unneeded files.
+* [TeraCopy](https://www.codesector.com/teracopy). A faster, more powerful, more customizable replacement to windows' Copy/Cut/Paste 
+* [Everything](https://www.voidtools.com/). A much faster and more full-featured search function for windows. EFP server and Regex capable.
 
 ## Dev Tools
 
