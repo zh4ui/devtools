@@ -34,3 +34,13 @@ Using QuickTime Player: Edit / Trim
 
 
 Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-your-mac/) [A how-to guide for trimming MP3 audio in macOS Sierra using just the software that comes with your Mac.](https://biteable.com/blog/tips/trimming-audio-macos/)
+
+## Safari
+
+**Safari - How to enable local file access**
+
+ * First you need to enable the develop menu.
+ * Click on the Develop menu
+ * Select Disable Local File Restrictions.
+
+[source](https://ccm.net/faq/36342-safari-how-to-enable-local-file-access)
