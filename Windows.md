@@ -15,6 +15,7 @@
 * WinMerge. A diff-merge tool for Windows.
 * Link Shell Extension. Create NTFS hardlinks by using Context Menu.
 * Microsoft Mathematics. A mathematic grapher provided by Microsoft.
+* [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
 
 ## Dev Tools
 
