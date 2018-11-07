@@ -28,3 +28,10 @@ console.log(x) // outputs ["hi"]
 x = 1 // TypeError: Assignment to constant variable.
 const x = 2 // SyntaxError: Identifier 'x' has already been declared
 ```
+
+## Yarn
+
+**yarn cache**
+
+* `yarn cache list`
+* `yarn cache clean`
