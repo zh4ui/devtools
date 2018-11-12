@@ -16,6 +16,7 @@
 * Link Shell Extension. Create NTFS hardlinks by using Context Menu.
 * Microsoft Mathematics. A mathematic grapher provided by Microsoft.
 * [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
+* [XMLmind XML Editor Peronsal Edition](http://www.xmlmind.com/xmleditor/download.shtml). A XML editor provided by XMLmind.
 
 ## Dev Tools
 
