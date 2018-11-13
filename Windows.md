@@ -43,3 +43,12 @@ wmic memorychip list full
 ```
 
 from [How to find the RAM type in command prompt?](https://superuser.com/questions/606318/how-to-find-the-ram-type-in-command-prompt)
+
+
+## System Management
+
+**List Explorer Extensions**
+
+[Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) from Sysinternals (Microsoft).
+
+[Source](https://superuser.com/questions/286000/how-to-list-explorer-extensions-and-disable-them).
