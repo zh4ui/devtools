@@ -52,3 +52,12 @@ from [How to find the RAM type in command prompt?](https://superuser.com/questio
 [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) from Sysinternals (Microsoft).
 
 [Source](https://superuser.com/questions/286000/how-to-list-explorer-extensions-and-disable-them).
+
+## Office
+
+### PowerPoint
+
+## Tips
+
+* CTRL-double click a shape to make the menu switch to Drawing Tools
+* Use Edit Points to add more connectors on a shape [Creating Anchor Points for Connectors in PowerPoint 2010 for Windows](https://www.indezine.com/products/powerpoint/learn/shapes/creating-connector-anchorpoints-ppt2010.html), a [caveat: Shift key to constrain motion while in edit points mode in PowerPoint](https://answers.microsoft.com/en-us/msoffice/forum/all/shift-key-to-constrain-motion-while-in-edit-points/c3fe3635-acf6-46a7-b668-70d4c3d643b9)
