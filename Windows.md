@@ -17,6 +17,7 @@
 * Microsoft Mathematics. A mathematic grapher provided by Microsoft.
 * [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
 * [XMLmind XML Editor Peronsal Edition](http://www.xmlmind.com/xmleditor/download.shtml). A XML editor provided by XMLmind.
+* [HxD](http://www.mh-nexus.de/). A hex editor for windows.
 
 ## Dev Tools
 
