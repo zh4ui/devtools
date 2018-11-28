@@ -16,3 +16,14 @@ Create a 'shallow' clone with a history truncated to the specified number of rev
 And git 2.10 Q3 2016 allows to record that with `git config -f .gitmodules submodule.<name>.shallow true`.
 
 Ref: [How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules/17692710#17692710)
+
+
+### list remote heads
+
+if `git branch -r` doesn't work, try:
+
+```sh
+git ls-remote --heads <remote-name>
+```
+
+Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.com/questions/3471827/how-do-i-list-all-remote-branches-in-git-1-7)
