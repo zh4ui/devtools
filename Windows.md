@@ -18,7 +18,7 @@
 * [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
 * [XMLmind XML Editor Peronsal Edition](http://www.xmlmind.com/xmleditor/download.shtml). A XML editor provided by XMLmind.
 * [HxD](http://www.mh-nexus.de/). A hex editor for windows.
-
+* [NoMachine](https://www.nomachine.com/). Remote Desktop Software. VNC capable.
 ## Dev Tools
 
 * [Google Protobuf](https://github.com/google/protobuf). Interface Description Language provided by Google. You can generate documents from Protobuf by using [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc). Uber has [some tools](https://github.com/uber/prototool) for Protobuf.
