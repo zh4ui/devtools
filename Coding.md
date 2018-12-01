@@ -5,8 +5,7 @@
 * [Etsy Hound](https://github.com/etsy/hound) Lightning fast code searching made easy
 * [Google CodeSearch](https://github.com/google/codesearch)
 * [sharkdp/fd](https://github.com/sharkdp/fd) A simple, fast and user-friendly alternative to 'find'
-* [ruben2020/codequery]() A code-understanding, code-browsing or code-search tool. 
-
+* [ruben2020/codequery](https://github.com/ruben2020/codequery) A code-understanding, code-browsing or code-search tool. 
 
 ## IDEs
 
