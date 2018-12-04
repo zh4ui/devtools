@@ -5,8 +5,9 @@
 * [Etsy Hound](https://github.com/etsy/hound) Lightning fast code searching made easy
 * [Google CodeSearch](https://github.com/google/codesearch)
 * [sharkdp/fd](https://github.com/sharkdp/fd) A simple, fast and user-friendly alternative to 'find'
-* [ruben2020/codequery]() A code-understanding, code-browsing or code-search tool. 
-
+* [ruben2020/codequery](https://github.com/ruben2020/codequery) A code-understanding, code-browsing or code-search tool. 
+* [MaskRay/ccls](https://github.com/MaskRay/ccls). C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting 
+* [cquery-project / cquery ](https://github.com/cquery-project/cquery). C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, … 
 
 ## IDEs
 
