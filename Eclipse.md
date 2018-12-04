@@ -35,6 +35,11 @@ Not that I know, but you can turn off cursor blinking at system level [How to di
 
 `Alt + Shift + O` to toggle Mark Occurrences
 
+**Disable Syntax Error Check in Eclipse**
+
+Turn off check boxes in "Preferences: General > Editors > Text Editors > Annotations: C/C++ Indexer Markers"
+
+
 ## Plugins
 
 **protobuf-dt**
