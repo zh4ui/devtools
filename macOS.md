@@ -44,3 +44,9 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
  * Select Disable Local File Restrictions.
 
 [source](https://ccm.net/faq/36342-safari-how-to-enable-local-file-access)
+
+## Terminal.app
+
+**Scroll to Previous Mark**
+
+`CMD+UP`
