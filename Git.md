@@ -27,3 +27,7 @@ git ls-remote --heads <remote-name>
 ```
 
 Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.com/questions/3471827/how-do-i-list-all-remote-branches-in-git-1-7)
+
+## Git Client
+
+* [tig](https://jonas.github.io/tig/). Text interface for Git repositories
