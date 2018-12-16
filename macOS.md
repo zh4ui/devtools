@@ -50,3 +50,9 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 **Scroll to Previous Mark**
 
 `CMD+UP`
+
+## Finder
+
+**show hidden files**
+
+`CMD+SHIFT+.(dot)`
