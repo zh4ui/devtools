@@ -28,3 +28,9 @@ make VERBOSE=1
 ```
 
 source: [Using CMake with GNU Make: How can I see the exact commands?](https://stackoverflow.com/questions/2670121/using-cmake-with-gnu-make-how-can-i-see-the-exact-commands)
+
+## du
+
+**calculate the size of each directory**
+
+`du -h -s *`
