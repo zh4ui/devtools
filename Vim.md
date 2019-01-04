@@ -19,3 +19,7 @@ Instead of %, just use the special <sfile>; in a script (but not inside a functi
 `:let s:local_path = expand('<sfile>:p:h')`
 
 [source](https://stackoverflow.com/questions/13976270/get-path-of-current-file-being-sourced)
+
+## key-notation
+
+`:h key-notaion`
