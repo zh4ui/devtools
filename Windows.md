@@ -27,6 +27,9 @@
 * [vcpkg](https://github.com/Microsoft/vcpkg). C++ Library Manager for Windows, Linux, and MacOS.
 * [YAML](http://yaml.org/). YAML Ain't Markup Language.
 
+## Other Tools
+
+* [UV Outliner](http://www.uvoutliner.com/)
 
 ## Tips
 
