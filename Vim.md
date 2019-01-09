@@ -20,6 +20,18 @@ Instead of %, just use the special <sfile>; in a script (but not inside a functi
 
 [source](https://stackoverflow.com/questions/13976270/get-path-of-current-file-being-sourced)
 
+### change 
+
+> place your favorite icon in bitmaps/vim.ico in a directory of 'runtimepath'.  For example ~/vimfiles/bitmaps/vim.ico.
+
+Online ico converters:
+
+* https://icoconvert.com/
+* https://convertico.com/
+
+[How to change gVim icon on Windows?](https://vi.stackexchange.com/questions/16562/how-to-change-gvim-icon-on-windows)
+
+
 ## key-notation
 
 `:h key-notaion`
