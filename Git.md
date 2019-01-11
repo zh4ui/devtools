@@ -32,6 +32,12 @@ Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.c
 
 `git push <repo_name> :<branch_name>`
 
+### exclude files from git grep 
+
+`git grep XXX -- './*' ':!*/test/*'`
+
+[How to exclude certain directories/files from git grep search](https://stackoverflow.com/questions/10423143/how-to-exclude-certain-directories-files-from-git-grep-search)
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
