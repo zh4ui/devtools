@@ -38,6 +38,12 @@ Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.c
 
 [How to exclude certain directories/files from git grep search](https://stackoverflow.com/questions/10423143/how-to-exclude-certain-directories-files-from-git-grep-search)
 
+### update all git repo in one directory
+
+in shell, execute:
+
+`for d in */; do pushd $d; echo $d; git pull; popd; done`
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
