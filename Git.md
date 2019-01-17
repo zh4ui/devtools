@@ -26,6 +26,7 @@ if `git branch -r` doesn't work, try:
 git ls-remote --heads <remote-name>
 ```
 
+
 Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.com/questions/3471827/how-do-i-list-all-remote-branches-in-git-1-7)
 
 ### delete a remote branch
@@ -37,6 +38,15 @@ Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.c
 `git grep XXX -- './*' ':!*/test/*'`
 
 [How to exclude certain directories/files from git grep search](https://stackoverflow.com/questions/10423143/how-to-exclude-certain-directories-files-from-git-grep-search)
+
+## shallow submodule 
+
+You can simply use: `git submodule add --depth 1 -- repository path`
+
+For Git 2.9.0 and up, you can do this: `git clone --depth=1 --recursive --shallow-submodules repo_url`
+
+[How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules)
+
 
 ## Git Client
 
