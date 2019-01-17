@@ -48,6 +48,12 @@ For Git 2.9.0 and up, you can do this: `git clone --depth=1 --recursive --shallo
 [How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules)
 
 
+### update all git repo in one directory
+
+in shell, execute:
+
+`for d in */; do pushd $d; echo $d; git pull; popd; done`
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
