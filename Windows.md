@@ -53,6 +53,10 @@ wmic memorychip list full
 
 from [How to find the RAM type in command prompt?](https://superuser.com/questions/606318/how-to-find-the-ram-type-in-command-prompt)
 
+**Encryption**
+
+* bitLocker can be used to encrypt the whole disk
+* EFS can be used to encrpyt individual files
 
 ## System Management
 
