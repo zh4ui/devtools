@@ -39,6 +39,10 @@ Source: [How do I list all remote branches in Git 1.7+?](https://stackoverflow.c
 
 [How to exclude certain directories/files from git grep search](https://stackoverflow.com/questions/10423143/how-to-exclude-certain-directories-files-from-git-grep-search)
 
+If you use Git for Windows in cmd.exe, '"' should be used as the quote
+
+`git grep xxx -- "./*" ":!*/test/*"`
+
 ## shallow submodule 
 
 You can simply use: `git submodule add --depth 1 -- repository path`
