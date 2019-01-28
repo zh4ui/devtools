@@ -43,6 +43,18 @@ If you use Git for Windows in cmd.exe, '"' should be used as the quote
 
 `git grep xxx -- "./*" ":!*/test/*"`
 
+You can put the above in a script named `git-grep1`, with the following content:
+
+```sh
+#!/usr/bin/bash
+
+git grep -n "$@" -- './*' ':!*/test/*'
+```
+
+Put the script some where in PATH, so that git can find it. Therefore you can use `git grep1 xxx`.
+
+> The script works even for Git for Windows.
+
 ## shallow submodule 
 
 You can simply use: `git submodule add --depth 1 -- repository path`
