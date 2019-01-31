@@ -70,6 +70,27 @@ in shell, execute:
 
 `for d in */; do pushd $d; echo $d; git pull; popd; done`
 
+### clone without lfs
+
+Two alternatives:
+
+```sh
+#1) Using the GIT_LFS_SKIP_SMUDGE variable:
+
+GIT_LFS_SKIP_SMUDGE=1 git clone SERVER-REPOSITORY
+
+# 2) Configuring the git-lfs smudge:
+
+git config --global filter.lfs.smudge "git-lfs smudge --skip"
+git clone SERVER-REPOSITORY
+
+# To undo this configuration, execute:
+
+git config --global filter.lfs.smudge "git-lfs smudge -- %f"
+```
+
+[How to clone/pull a git repository, ignoring LFS?](https://stackoverflow.com/questions/42019529/how-to-clone-pull-a-git-repository-ignoring-lfs)
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
