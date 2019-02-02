@@ -14,6 +14,7 @@
 ## shortcuts
 
 * `Win-x` to open a system menu
+* `Win-i` to open Settings
 * In “Run” box, type cmd and press Ctrl+Shift+Enter to run it in Admin. [source](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
 
 
