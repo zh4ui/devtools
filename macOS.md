@@ -56,3 +56,7 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 **show hidden files**
 
 `CMD+SHIFT+.(dot)`
+
+## Command line
+
+* `otool` an llvm equivalent to objdump
