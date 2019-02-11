@@ -12,6 +12,7 @@ git submodule update --depth -- [<path>...]
 `--depth`  option is valid for add and update commands.
 Create a 'shallow' clone with a history truncated to the specified number of revisions.
 
+For Git 2.9.0 and up, you can do this: `git clone --depth=1 --recursive --shallow-submodules repo_url`
 
 And git 2.10 Q3 2016 allows to record that with `git config -f .gitmodules submodule.<name>.shallow true`.
 
@@ -55,15 +56,6 @@ Put the script some where in PATH, so that git can find it. Therefore you can us
 
 > The script works even for Git for Windows.
 
-## shallow submodule 
-
-You can simply use: `git submodule add --depth 1 -- repository path`
-
-For Git 2.9.0 and up, you can do this: `git clone --depth=1 --recursive --shallow-submodules repo_url`
-
-[How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules)
-
-
 ### update all git repo in one directory
 
 in shell, execute:
@@ -90,6 +82,26 @@ git config --global filter.lfs.smudge "git-lfs smudge -- %f"
 ```
 
 [How to clone/pull a git repository, ignoring LFS?](https://stackoverflow.com/questions/42019529/how-to-clone-pull-a-git-repository-ignoring-lfs)
+
+### sparse-checkout
+
+turn on sparse-checkout: `git config core.sparseCheckout true`
+
+What to check out is controlled by **.git/info/sparse-checkout**. 
+
+```
+/*
+!**/test/**
+```
+
+The above example excludes all `test` directories from the checkout.
+
+ref: [Is it possible to do a sparse checkout without checking out the whole repository first?](https://stackoverflow.com/questions/4114887/is-it-possible-to-do-a-sparse-checkout-without-checking-out-the-whole-repository), also [gitglossary  pathspec](https://git-scm.com/docs/gitglossary#gitglossary-aiddefpathspecapathspec)
+
+### git for windows
+
+* Line ending problem `git config --global core.autocrlf false`, [source](https://stackoverflow.com/questions/2016404/git-status-shows-modifications-git-checkout-file-doesnt-remove-them)
+
 
 ## Git Client
 
