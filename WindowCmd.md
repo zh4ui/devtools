@@ -24,8 +24,11 @@ Note that don't put `http://` in the proxy's address.
 
 source: [Using Scoop behind a proxy](https://github.com/lukesampson/scoop/wiki/Using-Scoop-behind-a-proxy)
 
-## utils
+## system utils
+
+* where.exe helps you find the path of a command. [source](https://stackoverflow.com/questions/304319/is-there-an-equivalent-of-which-on-the-windows-command-line)
+* `manage-bde` manage bitlocker device.
+
+## external utils
 
 * [win32-openssh](https://github.com/PowerShell/Win32-OpenSSH)
-* where.exe helps you find the path of a command. [source](https://stackoverflow.com/questions/304319/is-there-an-equivalent-of-which-on-the-windows-command-line)
-* 
