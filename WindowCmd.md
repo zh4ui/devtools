@@ -2,6 +2,11 @@
 
 ## tips
 
+### install scoop
+
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser
+ iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
 ### set proxy for chocolatey
 
 ```
@@ -23,6 +28,12 @@ scoop config proxy proxy.example.org:8080
 Note that don't put `http://` in the proxy's address.
 
 source: [Using Scoop behind a proxy](https://github.com/lukesampson/scoop/wiki/Using-Scoop-behind-a-proxy)
+
+
+### user mode for choco
+
+* https://superuser.com/questions/1095475/chocolatey-as-non-admin-user
+
 
 ## system utils
 

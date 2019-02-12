@@ -73,3 +73,7 @@ Run: `dism.exe /Online /Cleanup-Image /AnalyzeComponentStore`
 If `Component Store Cleanup Recommended : Yes`, run: `dism.exe /online /Cleanup-Image /StartComponentCleanup`
 
 source: [腾出 C 盘又一方法，查看和清理 Windows 10「组件存储」](https://www.sysgeek.cn/windows-10-clean-component-store/)
+
+**VHD Creation**
+
+Win10: Win+X to open open user menu and then select Computer Management. Under Storage, right click Disk Management and click "Create VHD".
