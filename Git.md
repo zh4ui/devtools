@@ -102,6 +102,19 @@ ref: [Is it possible to do a sparse checkout without checking out the whole repo
 
 * Line ending problem `git config --global core.autocrlf false`, [source](https://stackoverflow.com/questions/2016404/git-status-shows-modifications-git-checkout-file-doesnt-remove-them)
 
+#### make a fold case sensitive in Windows 10
+
+Window 10 introduces support for case sensitive folder, so that in such a folder "Hello.txt" and "hello.txt" are too different files.
+
+You will need an admin cmd.exe and run `fsutil.exe file setCaseSensitiveInfo`, if your Winwodws doesn't support it yet, it will show `setCaseSensitiveInfo is an invalid parameter.`.
+
+Otherwise, use `fsutil.exe file setCaseSensitiveInfo "full path to your folder" enable` to turn of case sensitivity on a folder.
+
+> note that case sensitivity can not be inherited by sub folders.
+
+ref: [Enable Case Sensitive Mode for Folders in Windows 10
+](https://winaero.com/blog/enable-case-sensitive-mode-windows-10/)
+
 
 ## Git Client
 
