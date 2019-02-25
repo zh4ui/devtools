@@ -32,7 +32,7 @@
 * [HxD](http://www.mh-nexus.de/). A hex editor for windows.
 * [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
 * [plantuml](http://plantuml.com/). Convert text descriptions to UML diagrams. A similiar tool is [Mermaid](https://github.com/knsv/mermaid)..
-
+* [Kitty](http://kitty.9bis.net/). An enhanced PuTTY.
 
 ## Tips
 
