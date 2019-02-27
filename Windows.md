@@ -20,6 +20,7 @@
 * Microsoft Mathematics. A mathematic grapher provided by Microsoft.
 * [XMLmind XML Editor Peronsal Edition](http://www.xmlmind.com/xmleditor/download.shtml). A XML editor provided by XMLmind.
 * [UV Outliner](http://www.uvoutliner.com/). A Windows outliner.
+* [poppler](https://poppler.freedesktop.org/). A set of PDF utilities, one of which is pdf2html that can help convert pdf to html.
 
 ## Dev Tools
 
