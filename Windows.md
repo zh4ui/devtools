@@ -21,6 +21,7 @@
 * [XMLmind XML Editor Peronsal Edition](http://www.xmlmind.com/xmleditor/download.shtml). A XML editor provided by XMLmind.
 * [UV Outliner](http://www.uvoutliner.com/). A Windows outliner.
 * [poppler](https://poppler.freedesktop.org/). A set of PDF utilities, one of which is pdf2html that can help convert pdf to html.
+* [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX). Convert PDF to HTML without losing text or format.
 
 ## Dev Tools
 
