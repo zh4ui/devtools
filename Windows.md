@@ -22,6 +22,8 @@
 * [UV Outliner](http://www.uvoutliner.com/). A Windows outliner.
 * [poppler](https://poppler.freedesktop.org/). A set of PDF utilities, one of which is pdf2html that can help convert pdf to html.
 * [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX). Convert PDF to HTML without losing text or format.
+* [paint.net](https://www.getpaint.net/). Definitely an enhancement to MS.Paint.
+
 
 ## Dev Tools
 
