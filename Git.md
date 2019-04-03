@@ -18,6 +18,13 @@ And git 2.10 Q3 2016 allows to record that with `git config -f .gitmodules submo
 
 Ref: [How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules/17692710#17692710)
 
+### Shallow clone a branch 
+
+```
+git clone --depth 1 https://path/to/repo/foo.git -b bar
+```
+
+Ref: [How do I shallow clone a repo on a specific branch?](https://stackoverflow.com/questions/21833870/how-do-i-shallow-clone-a-repo-on-a-specific-branch)
 
 ### list remote heads
 
