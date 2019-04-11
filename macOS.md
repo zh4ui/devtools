@@ -1,5 +1,9 @@
 # macOS
 
+## Tools
+
+* [deluge](https://deluge-torrent.org/), torrent client.
+* [qBittorrent](https://www.qbittorrent.org/), torrent client.
 
 ## Tips
 
