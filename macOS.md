@@ -55,6 +55,10 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 
 `CMD+UP`
 
+**Dracula dark theme**
+
+[A dark theme for Terminal.app and 50+ apps](https://draculatheme.com/terminal/)
+
 ## Finder
 
 **show hidden files**
