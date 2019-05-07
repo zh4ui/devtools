@@ -43,3 +43,17 @@ source: [Using Scoop behind a proxy](https://github.com/lukesampson/scoop/wiki/U
 ## external utils
 
 * [win32-openssh](https://github.com/PowerShell/Win32-OpenSSH)
+
+## diskpart
+
+```
+dispart
+> lisk disk
+> select disk 2
+> clean
+> create partition primary
+> format fs=exfat quick
+> assign
+```
+
+ref: [How to Format a Hard Drive Using the Command Prompt](https://www.tomshardware.com/news/format-hard-drive-command-prompt,37632.html)
