@@ -7,6 +7,16 @@
 
 To change the background color and design of all your Office programs, go to File > Account from any open Office program, and then click the drop down menu next to Office Theme. (Or, go to File > Options > General > Office Theme). [source](https://support.office.com/en-us/article/change-the-look-and-feel-of-office-for-windows-with-office-themes-63e65e1c-08d4-4dea-820e-335f54672310)
 
+**Change font style for +Headings and +Body**
+
+The font style for +Headings and +Body comes from the theme of a document.
+
+Change it by clicking on menu: "Design > Fonts > Customize Fonts".
+
+**Link Text Boxes**
+
+In Word, "Insert > Text Box > Draw Horizontal | Vertical Text Box" can create a text box. However, this text box can only be within a page. If you want the content in a text box to appear on different text boxes, you need to link the text boxes on different pages together. This is done by using "Format | Create Link", and pointing the cursor on a empty text box.
+
 ## PowerPoint
 
 ## Tips
