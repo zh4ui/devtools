@@ -15,6 +15,7 @@ rm -f ~/.zcompdump*
 exec zsh -l
 ```
 
+[Zshでmvの補完をするとcommand not found: _mv](http://adragoona.hatenablog.com/entry/2018/09/28/210000)
 
 ## clang
 
