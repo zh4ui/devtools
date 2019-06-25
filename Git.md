@@ -131,6 +131,11 @@ git cherry branch [newbranch]
 git diff --name-status branch [newbranch]
 ```
 
+other refs:
+
+* [Is there a way to see all changed files on a branch in Git?](https://stackoverflow.com/questions/6913263/is-there-a-way-to-see-all-changed-files-on-a-branch-in-git)
+* [git diff showing only commits that revision/branch A is ahead of revision/branch B](https://stackoverflow.com/questions/17605208/git-diff-showing-only-commits-that-revision-branch-a-is-ahead-of-revision-branch)
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories

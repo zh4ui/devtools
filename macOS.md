@@ -68,3 +68,7 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 ## Command line
 
 * `otool` an llvm equivalent to objdump
+* `hidutil` to dump iso.
+  * Example: `hdiutil makehybrid -iso -joliet -o Image.iso /input_path`
+  * Ref: [Mac OS X: Best Way to Make an ISO from a CD or DVD](https://superuser.com/questions/85987/mac-os-x-best-way-to-make-an-iso-from-a-cd-or-dvd)
+
