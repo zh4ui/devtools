@@ -123,6 +123,14 @@ ref: [Enable Case Sensitive Mode for Folders in Windows 10
 ](https://winaero.com/blog/enable-case-sensitive-mode-windows-10/)
 
 
+###  [How to get the changes on a branch in Git](https://stackoverflow.com/questions/53569/how-to-get-the-changes-on-a-branch-in-git)
+
+```
+git diff HEAD...branch
+git cherry branch [newbranch]
+git diff --name-status branch [newbranch]
+```
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
