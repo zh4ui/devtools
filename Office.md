@@ -19,8 +19,20 @@ In Word, "Insert > Text Box > Draw Horizontal | Vertical Text Box" can create a 
 
 ## PowerPoint
 
-## Tips
+### Tips
 
 * CTRL-double click a shape to make the menu switch to Drawing Tools
 * Use Edit Points to add more connectors on a shape [Creating Anchor Points for Connectors in PowerPoint 2010 for Windows](https://www.indezine.com/products/powerpoint/learn/shapes/creating-connector-anchorpoints-ppt2010.html), a [caveat: Shift key to constrain motion while in edit points mode in PowerPoint](https://answers.microsoft.com/en-us/msoffice/forum/all/shift-key-to-constrain-motion-while-in-edit-points/c3fe3635-acf6-46a7-b668-70d4c3d643b9)
 * Press `SHIFT-F5` to go back. [Pick up where you left off in Microsoft Word with “Go Back”](https://legalofficeguru.com/pick-up-where-you-left-off-in-microsoft-word-with-go-back/)
+
+## Outlook
+
+### Troubleshooting
+
+**Cannot Manage Rules and Alerts**
+
+Problem:
+
+[Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/en-us/article/outlook-error-the-operation-failed-when-selecting-manage-rules-alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b)
+
+Configure the rules in OWA, then it works in the Client.
