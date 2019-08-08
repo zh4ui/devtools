@@ -18,6 +18,12 @@ And git 2.10 Q3 2016 allows to record that with `git config -f .gitmodules submo
 
 Ref: [How to make shallow git submodules?](https://stackoverflow.com/questions/2144406/how-to-make-shallow-git-submodules/17692710#17692710)
 
+### error: Server does not allow request for unadvertised object
+
+`git submodule update --force --recursive --init --remote`
+
+[Why does git fail to fetch specific valid submodule for a given commit and how to fix it?](https://stackoverflow.com/questions/42417294/why-does-git-fail-to-fetch-specific-valid-submodule-for-a-given-commit-and-how-t)
+
 ### Shallow clone a branch 
 
 ```
