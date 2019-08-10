@@ -145,3 +145,12 @@ other refs:
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
+
+
+## Git for Windows: HTTP Basic: Access denied and fatal Authentication
+
+```
+HTTP Basic: Access denied
+```
+
+[GitLab remote: HTTP Basic: Access denied and fatal Authentication](https://stackoverflow.com/questions/47860772/gitlab-remote-http-basic-access-denied-and-fatal-authentication)
