@@ -53,3 +53,11 @@ Online ico converters:
 ### key-notation
 
 `:h key-notaion`
+
+### enable DirectX rendering for GViM
+
+```
+set renderoptions=type:directx,scrlines:1
+```
+
+[Vim の DirectX をさらに高速化した話](https://qiita.com/k-takata/items/9e16212acbc88564fd9f)
