@@ -81,3 +81,7 @@ source: [腾出 C 盘又一方法，查看和清理 Windows 10「组件存储」
 **VHD Creation**
 
 Win10: Win+X to open open user menu and then select Computer Management. Under Storage, right click Disk Management and click "Create VHD".
+
+**Exlude folder from Windows Defender**
+
+[Add an exclusion to Windows Security](https://support.microsoft.com/en-us/help/4028485/windows-10-add-an-exclusion-to-windows-security)
