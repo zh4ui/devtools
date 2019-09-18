@@ -23,7 +23,7 @@
 * [poppler](https://poppler.freedesktop.org/). A set of PDF utilities, one of which is pdf2html that can help convert pdf to html.
 * [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX). Convert PDF to HTML without losing text or format.
 * [paint.net](https://www.getpaint.net/). Definitely an enhancement to MS.Paint.
-
+* [Keepass](https://keepass.info/). A password manager written in C#. Can be used as a elementary database. Support a lot of extensions.
 
 ## Dev Tools
 
