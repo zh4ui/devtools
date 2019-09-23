@@ -24,6 +24,7 @@
 * [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX). Convert PDF to HTML without losing text or format.
 * [paint.net](https://www.getpaint.net/). Definitely an enhancement to MS.Paint.
 * [Keepass](https://keepass.info/). A password manager written in C#. Can be used as a elementary database. Support a lot of extensions.
+* [PowerToys](https://github.com/microsoft/PowerToys), FancyZone is very interesting. Install it with `https://github.com/microsoft/PowerToys`
 
 ## Dev Tools
 
