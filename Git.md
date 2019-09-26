@@ -154,3 +154,15 @@ HTTP Basic: Access denied
 ```
 
 [GitLab remote: HTTP Basic: Access denied and fatal Authentication](https://stackoverflow.com/questions/47860772/gitlab-remote-http-basic-access-denied-and-fatal-authentication)
+
+## git show latest commits
+
+`git log -10 --all --date-order`
+
+For last 10 commits in all branches, you can do:
+
+```
+git log --graph --all --format=format:'%h - (%ai) %s — %cn %d' --abbrev-commit --date=relative -10
+```
+
+[How to find the latest commits in one git repository?](https://stackoverflow.com/questions/9678890/how-to-find-the-latest-commits-in-one-git-repository)
