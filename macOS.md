@@ -11,6 +11,24 @@
 
 Open the Finder Preference, switch to the Advanced tab, on the dropdown list named `When performing a search`, select `Search the Current Folder`.
 
+### remap key $
+
+```
+$ hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x700000064,"HIDKeyboardModifierMappingDst":0x700000035}]}'
+```
+
+- [MacBook Keyboard Setup: The Mysterious § Key](https://dchakarov.com/blog/macbook-remap-keys/)
+- [ hidutil - looking for Usage ID of § key ](https://discussions.apple.com/thread/8133633)
+- [Remap Caps Lock to Backspace in macOS Sierra in 1 Second](http://homeowmorphism.com/articles/17/Remap-CapsLock-Backspace-Sierra)
+- [Remapping Keys in macOS 10.12 Sierra](https://developer.apple.com/library/archive/technotes/tn2450/_index.html)
+- [HID Usage Tables 1.12](https://www.usb.org/document-library/hid-usage-tables-112)
+- [hut1_12v2.pdf](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf)
+- [USB human interface device class](https://en.wikipedia.org/wiki/USB_human_interface_device_class)
+- [ MightyPork/usb_hid_keys.h](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2)
+- [USB ScanCodes](https://www.win.tue.nl/~aeb/linux/kbd/scancodes-14.html)
+
+[Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+
 ## Mojave
 
 **Light window in dark theme (OS in dark, applications in light)**
