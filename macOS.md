@@ -17,7 +17,13 @@ Open the Finder Preference, switch to the Advanced tab, on the dropdown list nam
 $ hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x700000064,"HIDKeyboardModifierMappingDst":0x700000035}]}'
 ```
 
-- [MacBook Keyboard Setup: The Mysterious § Key](https://dchakarov.com/blog/macbook-remap-keys/)
+From [MacBook Keyboard Setup: The Mysterious § Key]:
+
+> My first instinct was to put the command into a .sh file and add it to the Login items in the System Preferences of the Mac. I tried it but for some reason it didn’t start the next time I restarted. So I dug deeper and found out I had to create an Automator script and compile it to a binary (app) which I can then safely add to the Login items. A few minutes later I had the final solution :)
+
+<https://github.com/dchakarov/restore-tilde>
+
+- [MacBook Keyboard Setup: The Mysterious § Key]
 - [ hidutil - looking for Usage ID of § key ](https://discussions.apple.com/thread/8133633)
 - [Remap Caps Lock to Backspace in macOS Sierra in 1 Second](http://homeowmorphism.com/articles/17/Remap-CapsLock-Backspace-Sierra)
 - [Remapping Keys in macOS 10.12 Sierra](https://developer.apple.com/library/archive/technotes/tn2450/_index.html)
@@ -26,8 +32,10 @@ $ hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc":0x
 - [USB human interface device class](https://en.wikipedia.org/wiki/USB_human_interface_device_class)
 - [ MightyPork/usb_hid_keys.h](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2)
 - [USB ScanCodes](https://www.win.tue.nl/~aeb/linux/kbd/scancodes-14.html)
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
 
-[Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+
+[MacBook Keyboard Setup: The Mysterious § Key]: https://dchakarov.com/blog/macbook-remap-keys/
 
 ## Mojave
 
