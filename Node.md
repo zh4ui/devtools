@@ -35,3 +35,16 @@ npx asar extract-file app.asar main.js
 
 [How to unpack an .asar file?](https://stackoverflow.com/questions/38523617/how-to-unpack-an-asar-file)
 
+**npm update packages**
+
+```
+npm install -g npm-check-updates
+ncu -u
+```
+
+[Update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
+
+- <https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm>
+- <https://flaviocopes.com/update-npm-dependencies/>
+- <https://yarnpkg.com/lang/en/docs/managing-dependencies/>
+- <https://yarnpkg.com/lang/en/docs/cli/upgrade/>
