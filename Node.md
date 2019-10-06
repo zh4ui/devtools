@@ -9,6 +9,11 @@
 
 source: https://github.com/yarnpkg/yarn/issues/2411
 
+**how config yarn use chinese tencent npm mirror**
+
+`npm config set registry http://mirrors.cloud.tencent.com/npm/`
+
+
 **`Yarn global add` on Windows**
 
 Executables will be installed to `%LOCALAPPDATA%\Yarn\bin`
