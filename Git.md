@@ -111,6 +111,12 @@ The above example excludes all `test` directories from the checkout.
 
 ref: [Is it possible to do a sparse checkout without checking out the whole repository first?](https://stackoverflow.com/questions/4114887/is-it-possible-to-do-a-sparse-checkout-without-checking-out-the-whole-repository), also [gitglossary  pathspec](https://git-scm.com/docs/gitglossary#gitglossary-aiddefpathspecapathspec)
 
+### git orphan branch
+
+`git checkout --orphan YourBranchName`
+
+[How to create a new (and empty!) “root” branch?])(https://stackoverflow.com/questions/15034390/how-to-create-a-new-and-empty-root-branch)
+
 ### git for windows
 
 * Line ending problem `git config --global core.autocrlf false`, [source](https://stackoverflow.com/questions/2016404/git-status-shows-modifications-git-checkout-file-doesnt-remove-them)
