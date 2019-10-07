@@ -53,3 +53,12 @@ ncu -u
 - <https://flaviocopes.com/update-npm-dependencies/>
 - <https://yarnpkg.com/lang/en/docs/managing-dependencies/>
 - <https://yarnpkg.com/lang/en/docs/cli/upgrade/>
+
+
+## yarn
+
+**use an older version**
+
+`yarn policies set-version 1.18.0`
+
+[ "Incorrect integrity when fetching from the cache" #7584 ](https://github.com/yarnpkg/yarn/issues/7584)
