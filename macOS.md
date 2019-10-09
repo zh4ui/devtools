@@ -1,5 +1,16 @@
 # macOS
 
+## catalina
+
+
+### xcrun: error:
+
+`clang` shows:
+
+`xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun`
+
+fix it with: `xcode-select --install`
+
 ## Tools
 
 * [deluge](https://deluge-torrent.org/), torrent client.
