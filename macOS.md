@@ -15,6 +15,8 @@ fix it with: `xcode-select --install`
 
 * [deluge](https://deluge-torrent.org/), torrent client.
 * [qBittorrent](https://www.qbittorrent.org/), torrent client.
+* FileMerge, macos builtin for file comparison
+
 
 ## Tips
 
