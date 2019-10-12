@@ -61,3 +61,40 @@ set renderoptions=type:directx,scrlines:1
 ```
 
 [Vim の DirectX をさらに高速化した話](https://qiita.com/k-takata/items/9e16212acbc88564fd9f)
+
+
+### 将Vim的<leader>映射到Space
+
+
+By default your <leader> is \, backslash. You can check it with:
+
+`:echo mapleader`
+
+If this gives you an E121: Undefined variable: mapleader, it means it's set to the default of \. If it gives you something else, then it's that :-)
+
+You can easily remap it. I mapped it to the space-bar:
+
+`:let mapleader = "\<Space>"`
+
+Note that the value of mapleader is used at the moment the mapping is defined. So this example:
+
+`
+let mapleader = ","
+nnoremap <Leader>a :echo "Hey there ,"<CR>
+
+let mapleader = "\<Space>"
+nnoremap <Leader>a :echo "Hey there space"<CR>
+`
+
+Will produce two mappings: ,a and <Space>a.
+
+This means that the current value of mapleader is not necessarily the value that was used to define your mappings!
+
+In addition, there's the maplocalleader, which is the same as mapleader, except that it's used by <LocalLeader> and that it's local to the current buffer.
+
+- [How can I find out what <Leader> is set to? And is it possible to remap <Leader>?](https://vi.stackexchange.com/questions/281/how-can-i-find-out-what-leader-is-set-to-and-is-it-possible-to-remap-leader)
+- [Learn Vimscript the Hard Way: Leaders](http://learnvimscriptthehardway.stevelosh.com/chapters/06.html)
+- [The "leader" mechanism](https://www.reddit.com/r/vim/wiki/the_leader_mechanism)
+- [Mapping keys in Vim - Tutorial (Part 3)](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_3))
+- [Question about having space-bar as <leader>]https://www.reddit.com/r/vim/comments/2d2za5/question_about_having_spacebar_as_leader/)
+
