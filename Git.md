@@ -141,6 +141,7 @@ ref: [Enable Case Sensitive Mode for Folders in Windows 10
 git diff HEAD...branch
 git cherry branch [newbranch]
 git diff --name-status branch [newbranch]
+git diff `git merge-base feature-branch master` feature-branch
 ```
 
 other refs:
