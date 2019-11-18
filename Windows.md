@@ -86,3 +86,20 @@ Win10: Win+X to open open user menu and then select Computer Management. Under S
 **Exlude folder from Windows Defender**
 
 [Add an exclusion to Windows Security](https://support.microsoft.com/en-us/help/4028485/windows-10-add-an-exclusion-to-windows-security)
+
+### Startup folder
+
+`%APPDATA%Microsoft\Windows\Start Menu\Programs\Startup`
+
+or 
+
+`shell:startup`
+
+
+All user startup
+
+`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
+
+or 
+
+`shell:common startup`

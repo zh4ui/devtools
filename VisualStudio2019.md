@@ -22,3 +22,4 @@ dotnet nuget locals all --clear
 
 - [How to clear NuGet package cache using command line?](https://stackoverflow.com/questions/30933277/how-to-clear-nuget-package-cache-using-command-line)
 - [Managing the global packages, cache, and temp folders](https://docs.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
+- [NuGet frequently-asked questions](https://docs.microsoft.com/en-us/nuget/resources/nuget-faq)
