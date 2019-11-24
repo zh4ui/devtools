@@ -23,3 +23,8 @@ dotnet nuget locals all --clear
 - [How to clear NuGet package cache using command line?](https://stackoverflow.com/questions/30933277/how-to-clear-nuget-package-cache-using-command-line)
 - [Managing the global packages, cache, and temp folders](https://docs.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
 - [NuGet frequently-asked questions](https://docs.microsoft.com/en-us/nuget/resources/nuget-faq)
+
+### Disable IntelliSense
+
+- [Disable or pause default IntelliSense for C/C++](https://docs.wholetomato.com/default.asp?W133)
+- [Visual Studio: How to Turn Off Autocomplete](https://www.technipages.com/visual-studio-turn-off-autocomplete)
