@@ -173,3 +173,11 @@ git log --graph --all --format=format:'%h - (%ai) %s — %cn %d' --abbrev-commit
 ```
 
 [How to find the latest commits in one git repository?](https://stackoverflow.com/questions/9678890/how-to-find-the-latest-commits-in-one-git-repository)
+
+## pageant
+
+- Use klink from Kitty, instead of plink from Putty. Klink has option "-auto-store-sshkey"
+- Use GIT_SSH_COMMAND instead of GIT_SSH
+
+GIT_SSH_COMMAND: `C:\\path\\to\\klink.exe -auto-store-sshkey`
+
