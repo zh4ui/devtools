@@ -157,6 +157,16 @@ other refs:
 * [Is there a way to see all changed files on a branch in Git?](https://stackoverflow.com/questions/6913263/is-there-a-way-to-see-all-changed-files-on-a-branch-in-git)
 * [git diff showing only commits that revision/branch A is ahead of revision/branch B](https://stackoverflow.com/questions/17605208/git-diff-showing-only-commits-that-revision-branch-a-is-ahead-of-revision-branch)
 
+
+### rewrite history
+
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo/) is recommended over git-filter-branch and BFG.
+- [Manual of git-filter-repo](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)
+
+Example
+
+- `git filter-repo --invert-paths --path '.DS_Store' --use-base-name`
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
