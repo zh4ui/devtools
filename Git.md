@@ -24,6 +24,14 @@ Ref: [How to make shallow git submodules?](https://stackoverflow.com/questions/2
 
 [Why does git fail to fetch specific valid submodule for a given commit and how to fix it?](https://stackoverflow.com/questions/42417294/why-does-git-fail-to-fetch-specific-valid-submodule-for-a-given-commit-and-how-t)
 
+Another solution is, fetching enough history from the server, so the commit is included in this history.
+
+There are some options in `git fetch` can help you do this:
+
+- `--deepen=<depth>`
+- `--shallow-since=<date>`
+- `--shallow-exclude=<revision>`
+
 ### Shallow clone a branch 
 
 ```
