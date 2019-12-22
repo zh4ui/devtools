@@ -17,6 +17,8 @@ choco config set proxyBypassList "'http://localhost,http://this.location/'" #0.1
 choco config set proxyBypassOnLocal true #0.10.4 required
 ```
 
+
+
 source: [Explicit Proxy Settings](https://github.com/chocolatey/choco/wiki/Proxy-Settings-for-Chocolatey#explicit-proxy-settings)
 
 ### set proxy for scoop
@@ -29,7 +31,13 @@ Note that don't put `http://` in the proxy's address.
 
 source: [Using Scoop behind a proxy](https://github.com/lukesampson/scoop/wiki/Using-Scoop-behind-a-proxy)
 
+### change scoop's extractor
 
+scoop core.ps1
+
+function Get-HelperPath {
+            $HelperPath = Get-AppFilePath '7zip' '7z0.exe'
+            
 ### user mode for choco
 
 * https://superuser.com/questions/1095475/chocolatey-as-non-admin-user
