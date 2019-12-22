@@ -38,6 +38,7 @@
 * [GitExtensions](https://github.com/gitextensions/gitextensions). Good Git GUI on Windows.
 * [plantuml](http://plantuml.com/). Convert text descriptions to UML diagrams. A similiar tool is [Mermaid](https://github.com/knsv/mermaid)..
 * [Kitty](http://kitty.9bis.net/). An enhanced PuTTY.
+* [Chezmoi](https://github.com/twpayne/chezmoi) A dotfiles manager, written in Go. Support templating configuration files with Go's template system. Also support storing/fetching secrets to secret manageers (e.g. keepass, lastpass) before adding/applying templates.
 
 ## Tips
 
