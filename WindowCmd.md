@@ -37,7 +37,15 @@ scoop core.ps1
 
 function Get-HelperPath {
             $HelperPath = Get-AppFilePath '7zip' '7z0.exe'
-            
+
+### scoop install or reset to an old version
+
+```
+scoop install python@3.7.6
+...
+scoop reset python@3.8.1
+```
+
 ### user mode for choco
 
 * https://superuser.com/questions/1095475/chocolatey-as-non-admin-user
