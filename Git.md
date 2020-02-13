@@ -167,6 +167,8 @@ Example
 
 - `git filter-repo --invert-paths --path '.DS_Store' --use-base-name`
 
+rewriting history may go wrong, should check the resulting history to confirm the effect.
+
 ## Git Client
 
 * [tig](https://jonas.github.io/tig/). Text interface for Git repositories
