@@ -39,6 +39,9 @@
 * [plantuml](http://plantuml.com/). Convert text descriptions to UML diagrams. A similiar tool is [Mermaid](https://github.com/knsv/mermaid)..
 * [Kitty](http://kitty.9bis.net/). An enhanced PuTTY.
 * [Chezmoi](https://github.com/twpayne/chezmoi) A dotfiles manager, written in Go. Support templating configuration files with Go's template system. Also support storing/fetching secrets to secret manageers (e.g. keepass, lastpass) before adding/applying templates.
+* [dependency walker](http://www.dependencywalker.com/) A DLL dependency viewer
+* [DLL Exprt View](http://www.nirsoft.net/utils/dll_export_viewer.html) displays the list of all exported functions and their virtual memory addresses for the specified DLL files.
+* [DB Browser for SQLite](https://sqlitebrowser.org/), cross platform DB Browser for SQLite, [nightly build](https://nightlies.sqlitebrowser.org/latest/)
 
 ## Tips
 
