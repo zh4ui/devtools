@@ -17,6 +17,16 @@ Change it by clicking on menu: "Design > Fonts > Customize Fonts".
 
 In Word, "Insert > Text Box > Draw Horizontal | Vertical Text Box" can create a text box. However, this text box can only be within a page. If you want the content in a text box to appear on different text boxes, you need to link the text boxes on different pages together. This is done by using "Format | Create Link", and pointing the cursor on a empty text box.
 
+## Word
+
+### Troubleshooting
+
+**Unlink images**
+
+[Transform linked images to embedded images](https://superuser.com/questions/294978/transform-linked-images-to-embedded-images)
+
+Open **Edit Links to Files** dialog, and break the links to images.
+
 ## PowerPoint
 
 ### Tips
