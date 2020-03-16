@@ -201,3 +201,22 @@ git log --graph --all --format=format:'%h - (%ai) %s — %cn %d' --abbrev-commit
 
 GIT_SSH_COMMAND: `C:\\path\\to\\klink.exe -auto-store-sshkey`
 
+## .netrc
+
+.netrc can be used to provide HTTP basic asscess to git when accessing repo through http.
+
+example .netrc:
+
+```
+machina gitlab.com/username/project login username password password_generated_by_gitlab_for_the_project
+```
+
+## noproxy
+
+When a http_proxy is set, and you would like to by pass the proxy for some hosts:
+
+```
+no_proxy=localhost,127.0.0.0,127.0.1.1,127.0.1.1,local.home
+```
+
+see: [Setting up proxy to ignore all local addresses [duplicate]](https://askubuntu.com/questions/11274/setting-up-proxy-to-ignore-all-local-addresses)
