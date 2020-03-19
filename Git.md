@@ -194,6 +194,18 @@ git log --graph --all --format=format:'%h - (%ai) %s — %cn %d' --abbrev-commit
 
 [How to find the latest commits in one git repository?](https://stackoverflow.com/questions/9678890/how-to-find-the-latest-commits-in-one-git-repository)
 
+## git-lfs exclude sub-folders
+
+```
+*.asset filter=lfs diff=lfs merge=lfs -text
+Assets/Resources/*.asset -filter=lfs -diff=lfs -merge=lfs -text
+```
+
+[How to make git LFS not apply to a subdirectory](https://stackoverflow.com/questions/45533593/how-to-make-git-lfs-not-apply-to-a-subdirectory)
+
+[Git LFS track folder recursively](https://stackoverflow.com/questions/35769330/git-lfs-track-folder-recursively)
+
+
 ## pageant
 
 - Use klink from Kitty, instead of plink from Putty. Klink has option "-auto-store-sshkey"
