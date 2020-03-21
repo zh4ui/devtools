@@ -13,6 +13,7 @@
 ## Tips
 
 * [Visual Studio Tip #8: Adding existing files with Show All Files](https://blogs.msdn.microsoft.com/benwilli/2015/05/21/visual-studio-tip-8-adding-existing-files-with-show-all-files/)
+* [How To Create an Icon for Visual Studio with just MSPaint and Visual Studio](https://stackoverflow.com/questions/40933304/how-to-create-an-icon-for-visual-studio-with-just-mspaint-and-visual-studio)
 
 ### Clear Nudget Cache
 
