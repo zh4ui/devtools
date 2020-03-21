@@ -232,3 +232,8 @@ no_proxy=localhost,127.0.0.0,127.0.1.1,127.0.1.1,local.home
 ```
 
 see: [Setting up proxy to ignore all local addresses [duplicate]](https://askubuntu.com/questions/11274/setting-up-proxy-to-ignore-all-local-addresses)
+
+## github access token
+
+- [technoweenie/gist:1072829](https://gist.github.com/technoweenie/1072829)
+- [Creating a personal access token for the command line](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
