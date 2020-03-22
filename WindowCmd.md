@@ -46,6 +46,8 @@ scoop install python@3.7.6
 scoop reset python@3.8.1
 ```
 
+[Switching Ruby and Python Versions](https://github.com/lukesampson/scoop/wiki/Switching-Ruby-and-Python-Versions)
+
 ### user mode for choco
 
 * https://superuser.com/questions/1095475/chocolatey-as-non-admin-user
