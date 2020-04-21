@@ -75,3 +75,13 @@ dispart
 ```
 
 ref: [How to Format a Hard Drive Using the Command Prompt](https://www.tomshardware.com/news/format-hard-drive-command-prompt,37632.html)
+
+## Resive VHD
+
+```
+PS C:\> Resize-VHD -Path c:\BaseVHDX.vhdx -SizeBytes 20GB
+```
+
+[Resize-VHD](https://docs.microsoft.com/en-us/powershell/module/hyper-v/resize-vhd?view=win10-ps)
+
+If you are increasing the size of the disk, you will also need to extend the file system to the newly avaiable space.
