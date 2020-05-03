@@ -64,3 +64,7 @@ For console:
 > Right click within the output window -> wrap text(CTRL+R)
 
 [How do you turn on wrapped mode in the NetBeans output console?](https://stackoverflow.com/questions/11495359/how-do-you-turn-on-wrapped-mode-in-the-netbeans-output-console)
+
+**Netbeans 11.3 cannot find java 1.8 or higher**
+
+Add `--jdkhome <JDK_HOME>` to the end of netbeans64.exe
