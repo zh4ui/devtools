@@ -42,6 +42,8 @@
 * [dependency walker](http://www.dependencywalker.com/) A DLL dependency viewer
 * [DLL Exprt View](http://www.nirsoft.net/utils/dll_export_viewer.html) displays the list of all exported functions and their virtual memory addresses for the specified DLL files.
 * [DB Browser for SQLite](https://sqlitebrowser.org/), cross platform DB Browser for SQLite, [nightly build](https://nightlies.sqlitebrowser.org/latest/)
+* [Adminer](adminer.org), a php based DB management tool
+* [Adobe XD], a UI/UX design tool from Adobe.
 
 ## Tips
 
