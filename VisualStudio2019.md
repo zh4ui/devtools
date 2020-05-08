@@ -34,12 +34,14 @@ dotnet nuget locals all --clear
 
 [Add Developer Command Prompt for Visual Studio to Windows Terminal?](https://stackoverflow.com/questions/57925428/add-developer-command-prompt-for-visual-studio-to-windows-terminal)
 
-```
+```json
     {
       "guid": "{1748ecca-abdd-4aa4-bcc4-9fca0d045be5}",
-      "name": "VS cmd",
-      "commandline": "cmd.exe /k \"%PROGRAMFILES(X86)%\\Microsoft Visual Studio\\2019\\Community\\Common7\\Tools\\LaunchDevCmd.bat\"",
+      "name": "VS cmd x64",
+      "cursorShape": "filledBox",
+      "commandline": "%comspec% /k \"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\Build\\vcvars64.bat\"",
       "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
       "hidden": false
     }
+
 ```
