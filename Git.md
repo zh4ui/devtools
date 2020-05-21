@@ -213,6 +213,10 @@ Assets/Resources/*.asset -filter=lfs -diff=lfs -merge=lfs -text
 
 GIT_SSH_COMMAND: `C:\\path\\to\\klink.exe -auto-store-sshkey`
 
+or maybe
+
+GIT_SSH_COMMAND: `C:/path/to/klink.exe -auto-store-sshkey`
+
 ## .netrc
 
 .netrc can be used to provide HTTP basic asscess to git when accessing repo through http.
