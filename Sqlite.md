@@ -27,3 +27,7 @@ PRAGMA dbname.page_size=1024;
 
 * [LiteCli](https://litecli.com/)， A command line interface for SQLite with auto-completion and syntax highlighting. LiteCli is part of [DBCLI](https://www.dbcli.com/)
 * [DBeaver](https://dbeaver.io) is a DB management tool. It has a free community edition. It comes with some [Optional Extensions](https://github.com/dbeaver/dbeaver/wiki/Optional-extensions)
+* [ValentineStudio]
+* [Navicat for SQLite]
+* [DB Browser for SQLite]
+* [SQLite/SQLServer Compact Toolbox]
