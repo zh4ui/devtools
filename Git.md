@@ -40,6 +40,12 @@ git clone --depth 1 https://path/to/repo/foo.git -b bar
 
 Ref: [How do I shallow clone a repo on a specific branch?](https://stackoverflow.com/questions/21833870/how-do-i-shallow-clone-a-repo-on-a-specific-branch)
 
+### Shallow fetch a tag
+
+```
+git fetch --update-shallow --depth=1 origin 1.2.1
+```
+
 ### list remote heads
 
 if `git branch -r` doesn't work, try:
