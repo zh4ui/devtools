@@ -46,3 +46,11 @@ Problem:
 [Outlook Error: "The operation failed..." when selecting Manage Rules & Alerts](https://support.office.com/en-us/article/outlook-error-the-operation-failed-when-selecting-manage-rules-alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b)
 
 Configure the rules in OWA, then it works in the Client.
+
+### Send to OneNote
+
+* Outlook can print a message to onenote
+* Outlook can "Send to OneNote" (a hidden Ribbon command), (should be supported by OneNote 2016), see [ Moving email to OneNote - default notebook ](https://answers.microsoft.com/en-us/msoffice/forum/all/moving-email-to-onenote-default-notebook/8bc4d4bd-1313-421c-8311-866c242b7836)
+* Outlook can "Email to OneNote", see [Save emails to OneNote](https://www.onenote.com/emailtoonenote)
+
+
