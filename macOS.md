@@ -117,3 +117,5 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 [Types of disks you can use with Time Machine on Mac](https://support.apple.com/en-sg/guide/mac-help/mh15139/mac) says APFS can not be used for TimeMachine backup.
 
 A big mistake I made, is to convert the HFS+ to APFS using `diskutil apfs convert diskxx`, even if it's not allowed in Disk Utility. 
+
+> TimeMachine takes a lot of time to finish encrypting.
