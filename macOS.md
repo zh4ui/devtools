@@ -119,3 +119,25 @@ Source: [Trim an MP3 on your Mac](http://osxdaily.com/2010/09/16/trim-mp3-on-you
 A big mistake I made, is to convert the HFS+ to APFS using `diskutil apfs convert diskxx`, even if it's not allowed in Disk Utility. 
 
 > TimeMachine takes a lot of time to finish encrypting.
+
+## Screen Sharing
+
+macOS comes with Screen Sharing, for example:
+
+* [VNC Server for Mac OS?](https://apple.stackexchange.com/questions/303647/vnc-server-for-mac-os)
+* [How to remotely access & control a Mac desktop](https://www.macworld.co.uk/how-to/mac-software/remote-access-control-mac-3594139/)
+
+You only need a VNC client to connect to the built-in server. Examples of such client:
+
+* VNC Viewer from RealVNC
+* TightVNC
+
+However, the screen sharing seems to be slow. There are some third party servers can be used:
+
+* TeamViewer, free for personal use
+* NoMachine, has a free version with limited functionality
+
+refs:
+
+* [Getting started with NoMachine](https://www.nomachine.com/getting-started-with-nomachine)
+* <https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software>
