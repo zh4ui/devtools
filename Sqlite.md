@@ -31,3 +31,4 @@ PRAGMA dbname.page_size=1024;
 * [Navicat for SQLite]
 * [DB Browser for SQLite]
 * [SQLite/SQLServer Compact Toolbox]
+* [DbVisualizer]
