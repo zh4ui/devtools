@@ -62,3 +62,17 @@ ncu -u
 `yarn policies set-version 1.18.0`
 
 [ "Incorrect integrity when fetching from the cache" #7584 ](https://github.com/yarnpkg/yarn/issues/7584)
+
+## Tips
+
+### Unpack asar
+
+Extract the whole archive:
+
+`npx asar extract app.asar destfolder `
+
+Extract a particular file:
+
+`npx asar extract-file app.asar main.js`
+
+[How to unpack an .asar file?](https://stackoverflow.com/questions/38523617/how-to-unpack-an-asar-file)
