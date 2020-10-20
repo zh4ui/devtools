@@ -14,6 +14,13 @@ In Settings, change `Workbench › List: Open Mode` to `doubleClick`.
 
 In Settings, change `prettier.semi` to false
 
+**CPU runs high after renaming sysmbol in a Python file**
+
+delete all the caches and restart VSCode
+
+code --status
+
+
 ## Extension
 
 * One Dark Pro is a really pleasant dark theme for VSCode.
