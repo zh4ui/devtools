@@ -141,3 +141,14 @@ refs:
 
 * [Getting started with NoMachine](https://www.nomachine.com/getting-started-with-nomachine)
 * <https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software>
+
+## brew
+
+### openjdk
+
+- https://github.com/AdoptOpenJDK/homebrew-openjdk
+
+```
+$ brew tap AdoptOpenJDK/openjdk
+$ brew cask install adoptopenjdk14
+```
