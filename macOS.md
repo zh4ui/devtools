@@ -24,6 +24,20 @@ fix it with: `xcode-select --install`
 
 Open the Finder Preference, switch to the Advanced tab, on the dropdown list named `When performing a search`, select `Search the Current Folder`.
 
+### encrypt tar.gz
+
+```
+# tar -czf - * | openssl enc -e -aes256 -out secured.tar.gz
+```
+
+decrypt
+
+```
+# openssl enc -d -aes256 -in secured.tar.gz | tar xz -C test
+```
+
+[How to Encrypt and Decrypt Files and Directories Using Tar and OpenSSL](https://www.tecmint.com/encrypt-decrypt-files-tar-openssl-linux/)
+
 ### remap key $
 
 ```
