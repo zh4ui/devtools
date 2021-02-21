@@ -109,3 +109,17 @@ All user startup
 or 
 
 `shell:common startup`
+
+## WSL
+
+### enable apt proxy in sudo mode
+
+[Setting up apt-get to use a http-proxy](https://help.ubuntu.com/community/AptGet/Howto#Setting_up_apt-get_to_use_a_http-proxy)
+
+Add following lines to /etc/sudoers:
+
+```
+Defaults env_keep = "http_proxy https_proxy ftp_proxy"
+```
+
+then export your proxies in shell.
