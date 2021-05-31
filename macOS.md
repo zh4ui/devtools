@@ -166,3 +166,7 @@ refs:
 $ brew tap AdoptOpenJDK/openjdk
 $ brew cask install adoptopenjdk14
 ```
+
+## tips
+
+- [emacs on terminal does not recognise option as alt-key on mac](https://emacs.stackexchange.com/questions/8068/emacs-on-terminal-does-not-recognise-option-as-alt-key-on-mac)
