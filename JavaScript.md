@@ -29,9 +29,23 @@ x = 1 // TypeError: Assignment to constant variable.
 const x = 2 // SyntaxError: Identifier 'x' has already been declared
 ```
 
+### ES2017 String.prototype.padStart
+
+```js
+const zeroPad = (num, places) => String(num).padStart(places, '0')
+
+console.log(zeroPad(5, 2)); // "05"
+console.log(zeroPad(5, 4)); // "0005"
+console.log(zeroPad(5, 6)); // "000005"
+console.log(zeroPad(1234, 2)); // "1234"
+```
+
+[How to output numbers with leading zeros in JavaScript? [duplicate]](https://stackoverflow.com/questions/2998784/how-to-output-numbers-with-leading-zeros-in-javascript)
+
 ## Yarn
 
 **yarn cache**
 
 * `yarn cache list`
 * `yarn cache clean`
+
