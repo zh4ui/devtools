@@ -19,6 +19,24 @@ In Word, "Insert > Text Box > Draw Horizontal | Vertical Text Box" can create a 
 
 ## Word
 
+### [Word: Disable spell checker for a paragraph?]
+
+```
+OK, I guess I found it and it's quite simple:
+
+    select the part of the document where you want to disable spell checking
+    click the language in the status bar
+    select the check box "Do not check spelling or grammar"
+    click OK
+
+For Word 2010/2013/2016 you have use Review ribbon menu. Click Language and then Set proofing language. You can disable spell and grammar check there even you can select a different language for proofing.
+```
+
+是否开启拼写检查其实可以作为样式的属性。
+
+[Word: Disable spell checker for a paragraph?]: https://superuser.com/questions/256247/word-disable-spell-checker-for-a-paragraph
+
+
 ### Troubleshooting
 
 **Unlink images**
